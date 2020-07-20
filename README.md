@@ -9,9 +9,8 @@
 `go run main.go`
 
 
-### STEP 3
+## DATA
 
-Data:
 
 | User        | MobileNo        |
 | ------------- |:-------------:| 
