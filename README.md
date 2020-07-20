@@ -25,7 +25,7 @@
 All the routes and error handling is done are same as mentioned in https://hackmd.io/@ranjth-setu/r1rVE0Y28
 
 
-Note: In header add x-api-key as given on the mail.
+Note: In header add `x-api-key` as given on the mail.
 Make the content type as `application/json`
 
 
